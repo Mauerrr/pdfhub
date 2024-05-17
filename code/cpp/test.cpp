@@ -5,13 +5,16 @@
 int main(){
     using namespace std;
     
-    int chest = 42;
-    int waist = 0x42;
-    int inseam = 042;
-
-    cout << "chest " << chest << endl;
-    cout << "waist " << waist << endl;
-    cout << "inseam " << inseam <<endl;
+    char ch = 'M';
+    int i = ch;
+    cout << "The Ascii code for " << ch << " is " << i << endl;
+    cout << "Add one to the character code: " << endl;
+    ch = ch + 1;
+    i = ch;
+    cout << "The Ascii code for " << ch << " is " << i << endl;
+    cout << "Displaying char ch using cout.put() ";
+    cout.put(ch);
+    cout.put('!');
 
 
     return 0;

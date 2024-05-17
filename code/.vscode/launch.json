@@ -29,8 +29,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/chen-/Desktop/code/cpp",
-      "program": "c:/Users/chen-/Desktop/code/cpp/build/Debug/outDebug",
+      "cwd": "c:/Users/EZE2SZH/Desktop/pdfhub/code/cpp",
+      "program": "c:/Users/EZE2SZH/Desktop/pdfhub/code/cpp/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
