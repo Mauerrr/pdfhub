@@ -1,0 +1,28 @@
+{
+    "files.associations": {
+        "*.py": "python",
+        "xlocale": "cpp",
+        "xstring": "cpp",
+        "xutility": "cpp",
+        "iterator": "cpp",
+        "unordered_map": "cpp",
+        "unordered_set": "cpp",
+        "random": "cpp"
+    },
+    "cmake.configureOnOpen": true,
+    "fileheader.customMade": {
+        "Description": "",
+        "Author": "HCQ",
+        "Company(School)": "UCAS",
+        "Email": "1756260160@qq.com",
+        "Date": "Do not edit",
+        "LastEditTime": "Do not edit",
+        "FilePath": "Do not edit"
+    },
+    "fileheader.cursorMode": {
+        "description": "",
+        "event": "",
+        "param": "",
+        "return": ""
+    },
+}
